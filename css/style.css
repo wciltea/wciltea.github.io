@@ -1,0 +1,30 @@
+h1 {
+    color: #a3d4e2
+    font-size: 72px;  
+}
+
+h2 {
+    color: #00ffec;
+}
+
+h4.job-title {
+    color: lightseagreen;
+}
+
+h2#menu {
+    font-weight: bold;
+    font-size: 14px;
+    color: #ffffff;
+}
+
+a {
+    color: grey;
+}
+
+h2#job {
+    color: blue;
+}
+
+/* .navlink {
+    color: red;
+} */
